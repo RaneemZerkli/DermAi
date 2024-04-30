@@ -1,6 +1,6 @@
-# dermatologist
+# DermAi
 
-A new Flutter project.
+A Flutter project that utilizes AI to diagnose skin diseases.
 
 ## Getting Started
 
